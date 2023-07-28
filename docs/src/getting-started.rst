@@ -4,6 +4,8 @@ Getting started
 A small introduction to all methods implemented in scikit-matter.
 For a detailed explaination, please look at the :ref:`selection-api`
 
+.. _getting_started-selection:
+
 Features and Samples Selection
 ------------------------------
 
@@ -34,6 +36,8 @@ Examples
    :start-line: 4
 
 
+.. _getting_started-reconstruction:
+
 Reconstruction Measures
 -----------------------
 
@@ -56,6 +60,8 @@ Examples
 
 .. include:: examples/reconstruction/index.rst
    :start-line: 4
+
+.. _getting_started-pcovr:
 
 Principal Covariates Regression
 -------------------------------
