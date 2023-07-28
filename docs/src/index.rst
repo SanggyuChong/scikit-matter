@@ -12,8 +12,7 @@ and coding guidelines to promote usability and interoperability with existing wo
    :end-before: marker-contributing
 
 .. toctree::
-  :maxdepth: 1
-  :caption: Contents:
+  :hidden:
 
   getting-started
   installation
